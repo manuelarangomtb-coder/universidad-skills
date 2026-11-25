@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aprender cálculo"
+  short_description: "Cálculo visual con práctica guiada y ayuda amable"
+  default_prompt: "Usa $aprender-calculo para enseñarme un tema de cálculo con una lección HTML interactiva."
